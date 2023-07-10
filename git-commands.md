@@ -7,19 +7,30 @@ The purpose of this file is for you to demonstrate your knowledge of working wit
 pwd
 
 # (2) List the files in your current directory [1 point]
+ls
+(empty)
 
 # (3) Change your directory to a folder in which you do work for this class (if you haven't created such a folder, please do so now — perhaps titled "INFO201") [1 point]
+cd /Users/meha/Desktop/INFO/info201/code
 
 # (4) Clone your assignment repository from GitHub to your machine/computer [1 point]
+git clone https://github.com/info201a-su23/assignment-01-mehasingal
 
 # (5) Using a *relative path*, change your directory to inside the repository you just cloned [1 point]
+cd assignment-01-mehasingal
+pwd --> /Users/meha/Desktop/INFO/info201/code/assignment-01-mehasingal
 
 # (6)  What is the *absolute path* of the image file "covid-example-2.png"? (You can answer the absolute path on your own computer, or the absolute path only within the GitHub repository) [1 points]
+/Users/meha/Desktop/INFO/info201/code/assignment-01-mehasingal/images/COVID-19-Visualizations
+
 
 # (7) Add all of the changes that you've made to this file with git [1 point]
+git add .
 
 # (8) Commit these changes, and include a *descriptive message* [2 points]
+git commit -m "Part 1 of Assignment 1 is complete, all changes are now saved"
 
 # (9) Finally, push your changes to GitHub [1 point]
+git push
 
 ```
