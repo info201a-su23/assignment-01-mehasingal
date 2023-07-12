@@ -23,7 +23,6 @@ pwd --> /Users/meha/Desktop/INFO/info201/code/assignment-01-mehasingal
 # (6)  What is the *absolute path* of the image file "covid-example-2.png"? (You can answer the absolute path on your own computer, or the absolute path only within the GitHub repository) [1 points]
 /Users/meha/Desktop/INFO/info201/code/assignment-01-mehasingal/images/COVID-19-Visualizations
 
-
 # (7) Add all of the changes that you've made to this file with git [1 point]
 git add .
 
