@@ -8,7 +8,7 @@
 
 ## Data Viz Summary
 
-HyperLink to Image: (https://github.com/info201a-su23/assignment-01-mehasingal/blob/main/Active_shooter_graph.jpeg)
+![FBI Active Shooter Graph](https://resize-v3.pubpub.org/eyJidWNrZXQiOiJhc3NldHMucHVicHViLm9yZyIsImtleSI6InczOW0zNXZnLzIxNTg0Mzc2NTc0MTgwLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTYwMCwiZml0IjoiaW5zaWRlIiwid2l0aG91dEVubGFyZ2VtZW50Ijp0cnVlfX19)
 
 The data visualization represents the number of 'active shooter' incidents in the United States annually from 2000-2015 through a traditional bar chart posted by the Washington Post with data taken/sourced from the FBI. It is a very simple visualization that almost makes the data not very impactful or create a cause for concern, as the numbers are quite small, and humans would probably sympathize with the situation more if these numbers were large and graphed in a way that better showed this trend. In the textbook, this graph is actually used for comparison between a more traditional data visualization and one that is more abstract and shows the number of lives  and years they lost as humans to gun violence/active shooters. Both projects share the proposition that gun deaths are a serious threat, but the graph that I chose is significantly less impactful and leaves out a lot of important, human context to those active shooter incidents.
 
